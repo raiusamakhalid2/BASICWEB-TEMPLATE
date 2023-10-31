@@ -1,0 +1,18 @@
+
+.verifyuser {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.tick-img {
+    max-width: 100px; 
+  }
+
+.beautiful-button {
+  margin-top: 20px; 
+}
